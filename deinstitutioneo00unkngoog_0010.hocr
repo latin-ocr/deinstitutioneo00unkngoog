@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deinstitutioneo00unkngoog_0010.png"; bbox 0 0 3200 5159; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1040 2187 2500 2393">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1040 2187 2500 2393">
+     <span class='ocr_line' id='line_1_1' title="bbox 1040 2187 2500 2258; baseline 0.001 -3"><span class='ocrx_word' id='word_1_1' title='bbox 1040 2188 1669 2255; x_wconf 82' lang='lat' dir='ltr'><strong>EXCUDEBAT</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1713 2187 2115 2256; x_wconf 90' lang='lat' dir='ltr'>PETRUS</span> <span class='ocrx_word' id='word_1_3' title='bbox 2161 2190 2500 2258; x_wconf 84' lang='lat' dir='ltr'><strong>DIDOT</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1131 2333 2396 2393; baseline 0.001 -12"><span class='ocrx_word' id='word_1_4' title='bbox 1131 2334 1313 2382; x_wconf 69' lang='lat' dir='ltr'><strong>turn</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1341 2333 1602 2393; x_wconf 64' lang='lat' dir='ltr'><strong>namon,</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1635 2334 1838 2382; x_wconf 71' lang='lat' dir='ltr'><strong>nous</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1864 2333 2396 2383; x_wconf 66' lang='lat' dir='ltr'><strong>TtpocaApuus.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 3199 548 3200 1148">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 3199 548 3200 1148">
+     <span class='ocr_line' id='line_1_3' title="bbox 3199 548 3200 1148; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 3199 548 3200 1148; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
